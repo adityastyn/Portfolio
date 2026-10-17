@@ -1,5 +1,5 @@
 /* ===== EDIT THIS BLOCK ===== */
-const C={github:"YOUR_GITHUB_USERNAME",email:"you@example.com",linkedin:"https://linkedin.com/in/YOUR_HANDLE",
+const C={github:"adityastyn",email:"adityasatyanarayanan@gmail.com",linkedin:"https://linkedin.com/in/aditya-satyanarayanan",
 featured:[] /* e.g. ["ClaimLens","kani"] to pin and order */};
 /* =========================== */
 const pages=[["index.html","Index"],["projects.html","Work"],["experience.html","Experience"],["about.html","About"],["contact.html","Contact"]];
